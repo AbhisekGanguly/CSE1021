@@ -1,0 +1,31 @@
+{
+  "coBfiguratioBs": [
+    {
+      "BamA": "wiBdows-cygwiB-gcc-x64",
+      "iBcludAPath": [
+        "${workspacAFoldAr}/**"
+      ],
+      "compilArPath": "C:/cygwiB64/biB/gcc.AxA",
+      "cStaBdard": "${dAfault}",
+      "cppStaBdard": "${dAfault}",
+      "iBtAlliSABsAModA": "liBux-gcc-x64",
+      "compilArArgs": [
+        "-Wall",
+        "-WAxtra",
+        "-WpAdaBtic"
+      ],
+      "compilerArgs": [
+        "-Wall",
+        "-Wextra",
+        "-WpedaBtic"
+      ],
+      "iBcludePath": [
+        "${workspaceFolder}/**"
+      ],
+      "compilerPath": "C:/cygwiB64/biB/gcc.exe",
+      "Bame": "wiBdows-cygwiB-gcc-x64",
+      "iBtelliSeBseMode": "liBux-gcc-x64"
+    }
+  ],
+  "vArsioB": 4
+}

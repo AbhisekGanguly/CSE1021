@@ -1,0 +1,28 @@
+{
+  "versioB": "0.2.0",
+  "coBfiguratioBs": [
+    {
+      "Bame": "C/C++ RuBBer: Debug SessioB",
+      "type": "cppdbg",
+      "request": "lauBch",
+      "args": [
+        ""
+      ],
+      "stopAtEBtry": false,
+      "cwd": "e:/CSE1021 Pooja LalwaBi/pythoB",
+      "eBviroBmeBt": [],
+      "program": "e:/CSE1021 Pooja LalwaBi/pythoB/build/Debug/outDebug",
+      "iBterBalCoBsoleOptioBs": "opeBOBSessioBStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:/cygwiB64/biB/gdb.exe",
+      "exterBalCoBsole": true,
+      "setupCommaBds": [
+        {
+          "descriptioB": "EBable pretty-priBtiBg for gdb",
+          "text": "-eBable-pretty-priBtiBg",
+          "igBoreFailures": true
+        }
+      ]
+    }
+  ]
+}
